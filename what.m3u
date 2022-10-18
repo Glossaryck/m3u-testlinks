@@ -1,0 +1,256 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv1hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 HD
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv2hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3 HD
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv3hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv4hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4 HD
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv4hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 HD
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ HD
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv7hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7 HD
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv7hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8 HD
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv8hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9 HD
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv9hd/chunklist_b5128000.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Gia7LBs0wYFsFRu2pmW3Lw","kid":"Km3F7enCSnOW/WqJJuAbIA"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd", K+Cine HD - Nguồn Kplus
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XBwLbD68/WFYiMU8fOMHWg","kid":"eTixka+YRhqfvM/Bc6OpbQ"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="klifehd", K+Life HD - Nguồn Kplus
+https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5/bna0DxKWrezITpxJFwDA","kid":"kG4QCKmhR72CrPz47XniIw"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd", K+Sport1 HD - Nguồn Kplus
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qB9ZL7EDZJ0y9/SzPViVnw","kid":"CCTMsjFsTz2IIProC0nQUA"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd", K+Sport2 HD - Nguồn Kplus
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M6sr+iTkmlih4LxZgZGFgA","kid":"Hq/LU9sARTKLYMzQjnpezw"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kkidshd", K+Kids HD - Nguồn Kplus
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kr07O/egPmhNmgtTF0FDaA","kid":"HvTTbdHDR1uzV+yvDmdb1w"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd", K+Cine HD - Nguồn MyTV
+http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7iGbv2k+va5F+aWCvJZF7g","kid":"qiw56/BTQK6PxTdJ2u+gsQ"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="klifehd", K+Life HD - Nguồn MyTV
+http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w08hQw4oVD0w01CBWJxoXw","kid":"6RO2sX4KTkupANMjM8uUhQ"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd", K+Sport1 HD - Nguồn MyTV
+http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4qz0sYwyvb7Fi1Dk7G7v4w","kid":"lJBJc3YLRjSW1dzHhqAs3Q"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd", K+Sport2 HD - Nguồn MyTV
+http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MUhMjNRWi7thEBq8D5kfXw","kid":"LBiIAkpIOki5i0jME/+znA"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd", K+Cine HD - Nguồn VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#https://hni-fpt-001-livecdn-vthn2-vnd.vieon.vn/d9a0ead612f691da249412567cde00f8/1665921860684/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8NTFhY2NiMmMtMWRlMC00YTVjLTlkOGEtYjEzOWEyMmI5MDEyfGxpdmV0dnwyNkM3NjZ8YWUwYWRhZDY0NWQ4YmM5YWZhMmVmNjEzZDU1MWJlNjc=
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iWFGjPZD4yqU9SR4AW5SVQ","kid":"ogbfU5DaMZ+fM7ofpIpEhg"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="klifehd", K+Life HD - Nguồn VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#https://hni-fpt-002-livecdn-vthn2-vnd.vieon.vn/74b3140e8f4908cb7264d5ae88627d44/1665921860821/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8NDAzNjQyN2EtNjUzMi00ZDA5LWJlMWYtYWFmNTg3M2M3ZTQ3fGxpdmV0dnwyNkM3Njh8ZjVmZTdjZDE0Y2ZmNzE3ZDFhZjA0MWNkMDAxODBiZGI=
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Vz3g6rR3Y5W4RUjWN75Zgg","kid":"AJwgucFiNFCwPW9Xjn6RMA"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd", K+Sport1 HD - Nguồn VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#https://sgn-fpt-003-livecdn-vthn2-vnd.vieon.vn/0e56f40c32433c35b2eb438b44dc4118/1665921860758/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8MWU1ZTk0ODAtMTNkMC00YTNjLTk3MGItNzgyODgwMDNkNzI4fGxpdmV0dnwyNkM3Njd8MjMyYzMzZTIwZTc1N2I2ZTA1MDY3NjMzYjQ5N2NiMmU=
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C1m6hYwbfPIkTFdtonYsgg","kid":"PGQuhgq+PfqKyJcA93BvqA"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd", K+Sport2 HD - Nguồn VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#https://sgn-fpt-003-livecdn-vthn2-vnd.vieon.vn/7d4296b4d7aa81603762495f4388557c/1665921860894/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8YWUwZTk3ZTItNzJlMi00MDNlLTk1NTAtMWIyMGM0NjgzZDlmfGxpdmV0dnwyNkM3Njl8YThkNGQ4YWI0Y2FjNTZkY2FjMGYxMjQyOTM4OTRjOGY=
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iSOD8bCwY3T3RvqF4fFifg","kid":"X9rAUYedMDep0jmGFR5xbw"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kkidshd", K+Kids HD - Nguồn VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#https://hni-fpt-002-livecdn-vthn2-vnd.vieon.vn/49475a88f484b29e7add792462f902d2/1665921860611/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8MjYwZjNhYTgtNWU0OC00MDI1LWJlYTQtZmZlZGQ3MTI5NjI0fGxpdmV0dnwyNkM3NjV8NjhlM2FiOTY1NmMxZjRhMjI4MzYyMzc4NzU4Y2Y5OTk=
+
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="antvhd", ANTV HD
+https://web-livecdn.fptplay.net/hda2/anninhtv_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="ttxvnhd", VNews
+https://web-livecdn.fptplay.net/hda2/ttxvn_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="nhandan", Nhân Dân TV
+https://web-livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="quochoi", Quốc Hội HD
+https://web-livecdn.fptplay.net/hda1/quochoivn_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="qpvnhd", QPVN HD
+https://web-livecdn.fptplay.net/hda1/quocphongvnhd_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="vovtvhd", VOVTV HD
+https://web-livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab1hd", VTVCab1 HD - Vie Giải Trí
+https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab2hd", ON Phim Việt
+https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd", ON Sports HD
+https://856175157.r.vtvcdn.com/ondrm/THETHAO_HD/m30_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab4hd", VTVCab4 HD
+https://856175157.r.vtvcdn.com/ondrm/VAN_HOA/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab5hd", VTVCab5 HD - E Channel
+https://856175157.r.vtvcdn.com/ondrm/E_CHANNEL/m30_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab6hd", ON Sports+ HD
+https://856175157.r.vtvcdn.com/ondrm/HAY_TV/m30_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab7hd", VTVCab7 HD
+https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab8hd", VTVCab8 - BiBi
+https://856175157.r.vtvcdn.com/ondrm/BIBI/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab9hd", VTVcab 9 - InfoTV
+https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab10hd", ON Cine
+https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab12hd", VTVCab12 - Style TV
+https://856175157.r.vtvcdn.com/ondrm/STYLE_TV_HD/m30_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab15hd", VTVcab15
+https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab16hd", ON Football HD
+https://856175157.r.vtvcdn.com/ondrm/BONGDA_HD/m30_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab17hd", VTVCab17 - Yeah1 TV
+https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab18hd", ON Sports News HD
+https://856175157.r.vtvcdn.com/ondrm/THETHAO_TINTUC_HD/m30_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab19hd", VTVCab19 HD - Vie DRAMAS
+https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab20hd", VTVCab20 - V Family
+https://856175157.r.vtvcdn.com/ondrm/VFAMILY/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab20hd", VTVCab21 HD - BiBi+
+https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab20hd", VTVCab22 HD - Life TV
+https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab23hd", ON Golf HD
+https://856175157.r.vtvcdn.com/ondrm/THETHAO_GOLF_HD/m30_index.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc1", VTC1 HD
+https://web-livecdn.fptplay.net/sdb/vtc16_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc2", VTC2
+https://web-livecdn.fptplay.net/sdb/vtc2_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc3hd", VTC3 HD
+https://web-livecdn.fptplay.net/hda1/vtc3hd_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc4hd", VTC4 HD
+https://web-livecdn.fptplay.net/hda2/vtc4_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc5hd", VTC5 HD
+https://web-livecdn.fptplay.net/sdb/vtc5_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc6hd", VTC6 HD
+https://web-livecdn.fptplay.net/sdb/vtc6_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc7hd", VTC7 HD - TodayTV
+https://web-livecdn.fptplay.net/sdb/todaytv_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc8", VTC8
+https://web-livecdn.fptplay.net/sdb/vtc8_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc9hd", VTC9 HD
+https://web-livecdn.fptplay.net/hda3/vtc9_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc10", VTC10 HD
+https://web-livecdn.fptplay.net/sdb/vtc10_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc11", VTC11
+https://web-livecdn.fptplay.net/sdb/vtc11_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc12", VTC12
+https://web-livecdn.fptplay.net/sdb/vtc12_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc13hd", VTC13 HD
+https://web-livecdn.fptplay.net/hda1/vtc13_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc14hd", VTC14 HD
+https://web-livecdn.fptplay.net/hda1/vtc14_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc16", VTC16 HD
+https://web-livecdn.fptplay.net/sdb/vtc16_2000.stream/playlist.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="HTV" tvg-id="htv1", HTV1 HD
+https://web-livecdn.fptplay.net/sdb/htv1_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htv2hd", HTV2 - Vie Channel
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htv3", HTV3 - Heo TV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htv4", HTV Key
+https://web-livecdn.fptplay.net/sdb/htv4_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htv7hd", HTV7 HD
+https://106a8e566.vws.vegacdn.vn/cliptv_live/amlst:htv7hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htv9hd", HTV9 HD
+https://106a8e566.vws.vegacdn.vn/cliptv_live/amlst:htv9hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htvthethaohd", HTV Thể Thao
+https://web-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/playlist.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviet", HTVC Thuần Việt
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd", HTVC Thuần Việt HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcgiadinhhd", HTVC Gia đình HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcphunuhd", HTVC Phụ nữ HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcdulichhd", HTVC Du lịch Cuộc sống HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvccanhachd", HTVC Ca nhạc HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcphimhd", HTVC Phim HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcplushd", HTVC Plus HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong1hd", THVL1 HD
+https://web-livecdn.fptplay.net/hda1/vinhlong1_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong2hd", THVL2 HD
+https://web-livecdn.fptplay.net/hda2/vinhlong2_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong3hd", THVL3 HD
+https://web-livecdn.fptplay.net/hda2/vinhlong3_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong4hd", THVL4 HD
+https://web-livecdn.fptplay.net/hda3/vinhlong4hd_2000.stream/playlist.m3u8
